@@ -7,6 +7,9 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - 30 Day Challenges 
 https://tawnyowlet.github.io/nest/30day.html
 
+
+[Connecting to a page within the repository](http://jmcglone.com/guides/github-pages/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
