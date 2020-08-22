@@ -2,11 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 # 
--[Sports and schools in Nevada](https://tawnyowlet.github.io/nest/sports.html)
-or [here](tawnyowlet.github.io/nest/sports.html)
-
-https://tawnyowlet.github.io/nest/sports.html
-
+- [Sports and schools in Nevada](https://tawnyowlet.github.io/nest/sports.html)
 
 ### Markdown
 
