@@ -37,6 +37,7 @@ Welcome
 - June 25 CCSD Board of Trustees agree on Hybrid Plan
 - July 21 CCSD Board of Trustees pivots to Distance Learning for first 90 Days
 ```
+
 - July 28 Governor mandates masks for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)
 - August 7 Charter schools in Clark, Elk, and Washoe encouraged to do full distance for first 30 days
 - August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/) cancelled. Nevada teams prohibited from attending conference until further notice
@@ -45,24 +46,9 @@ Welcome
 - Aug 20 First postiive case at Bishop Gorman
 - Aug 21 NSYSL Moves to Phase 2 soccer, practice only, no 4v4 scrimmages per Governor
 - Aug 24 First day of school for CCSD, Coral, Las Vegas Day School
-
--
-
  
 If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
-
  
-
-
-STOP
-
- 
--[Sports and schools in Nevada](https://tawnyowlet.github.io/main/sports.md)
-or [here](tawnyowlet.github.io/main/sports.md)
-
-https://tawnyowlet.github.io/main/sports.md
- 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
