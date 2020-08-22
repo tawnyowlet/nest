@@ -8,10 +8,10 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 - [Daily Testing Trends in the United States](https://coronavirus.jhu.edu/testing/individual-states?fbclid=IwAR02lG-1TMD6qsQ8zJ1-sMgdR-NbrN5K2R80Few3Wpe1M3Hz7TsndHTLBeoWhenever), Testing Positivity Rate by JHU state by state
 -[Governor Sisolak Press Releases]-(https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 
--[Sports and schools in Nevada](https://tawnyowlet.github.io/main/sports.md)
-or [here](tawnyowlet.github.io/main/sports.md)
+-[Sports and schools in Nevada](https://tawnyowlet.github.io/nest/sports.md)
+or [here](tawnyowlet.github.io/nest/sports.md)
 
-https://tawnyowlet.github.io/main/sports.md
+https://tawnyowlet.github.io/nest/sports.md
 
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
