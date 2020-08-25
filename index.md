@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pa
 # 
 - [Sports and School Life during the Pandmic in Nevada](https://tawnyowlet.github.io/nest/sports.html)
 - [Pandemic Recipes](https://tawnyowlet.github.io/nest/recipes.html)
-- 30 Day Challenges 
-https://tawnyowlet.github.io/nest/30day.html
-
+- [30 Day Challenges](https://tawnyowlet.github.io/nest/challenge.html)
 
 [Connecting to a page within the repository](http://jmcglone.com/guides/github-pages/)
 
