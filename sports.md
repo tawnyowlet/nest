@@ -38,6 +38,7 @@ Welcome
 - July 21 CCSD Board of Trustees pivots to Distance Learning for first 90 Days
 ```
 
+`
 - ``July 28 Governor mandates masks for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)``
 - ``August 3, [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) announced by Governor``
 - ``August 7 Charter schools in Clark, Elk, and Washoe encouraged to do full distance for first 30 days``
@@ -49,7 +50,7 @@ Welcome
 - ``Aug 21 NSYSL Moves to Phase 2 soccer, practice only, no 4v4 scrimmages per Governor``
 - ``Aug 24 First day of school for CCSD, Coral, Las Vegas Day School``
 - ``Aug 25 Second postive case at Bishop Gorman``
-` 
+ 
 If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
  
 ### Markdown
