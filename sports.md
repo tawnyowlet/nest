@@ -17,6 +17,7 @@ Welcome
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
 - [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.html), JAMA Article 
 - [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE)
+- [Is it safe to Return to Fall Sports?](https://www.idsociety.org/Podcasts/podcasts/covid-19-is-it-safe-to-return-to-fall-sports/), an informative podcase from the Infectious Disease Society of America
 
 ### Time line
 ```markdown
