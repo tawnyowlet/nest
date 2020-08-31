@@ -1,10 +1,8 @@
-## Welcome to Tawny Owlet Page
+## Welcome to Tawny Owlet Page ##
+*A look at schools and sports in Nevada during the pandemic*
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-title: [Tawny Owl: a look at Schools and Sports in Nevada during the Pandemic]
-description: [Governor Sisolak's directives and NYSL Guidelines ]
-filename: sports.md
-
+ 
 Welcome
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
@@ -53,34 +51,4 @@ Welcome
  
 If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
  
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``` 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tawnyowlet/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
