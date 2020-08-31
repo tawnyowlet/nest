@@ -35,8 +35,8 @@
 
 - July 28 Mask mandate for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)
 - [Manchester Cup](http://surfcupsports.com/2020/04/07/nexen-manchester-city-cup-2020/) postponed to Memoridal Day Weekend 2021
-- July 31, Prime SC 09 BAN accepted to Desert Conference and formally becomes Prime SC 09 Boys National.  One of 2 Nevada 09 boys team accepted.
-- August 3, [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) announced by Governor
+- July 31 Prime SC 09 BAN accepted to Desert Conference and formally becomes Prime SC 09 Boys National.  One of 2 Nevada 09 boys team accepted.
+- August 3 [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) announced by Governor
 - August 7 Charter schools in Clark, Elk, and Washoe encouraged to do full distance for first 30 days
 - August 14 Governor formally creates Mitigation Task Force 
 - August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/): NM, NV teams prohibited from attending conference in UT
