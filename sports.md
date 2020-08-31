@@ -1,9 +1,7 @@
-## Welcome to Tawny Owlet Page ##
-*A look at schools and sports in Nevada during the pandemic*
+## A look at schools and sports in Nevada during the pandemic
 
-You can use the [editor on GitHub](https://github.com/tawnyowlet/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
  
-Welcome
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Organized Youth Sports Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Organized-Youth-Sports-Practice-Only.pdf)
