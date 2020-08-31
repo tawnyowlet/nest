@@ -18,7 +18,6 @@
 - March 5, clubs and extracurriculars cancelled
 - March 15, schools close. March 18 businesses close,  March 21-May 9 nonessential businesses close.  March 24 large gatherings discouraged
 - March 31-May 9 official Stay At Home Order
-- [Manchester Cup](http://surfcupsports.com/2020/04/07/nexen-manchester-city-cup-2020/) postponed to Memoridal Day Weekend 2021
 - May 9, phase 1 for the economy
 - May 29, phase 2 for the economy.  
 - Stricter suspension of soccer play June 6-15
@@ -35,6 +34,7 @@
 ```
 
 - July 28 Mask mandate for all schools (including children < 9 years old, ie. preschool and elementary): [Nevada Declaration Emergency Directive 208](https://www.scribd.com/document/470744272/Nevada-Declaration-Emergency-Directive-028#from_embed)
+- [Manchester Cup](http://surfcupsports.com/2020/04/07/nexen-manchester-city-cup-2020/) postponed to Memoridal Day Weekend 2021
 - August 3, [Road to Recovery](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/08/Road-to-Recovery.pdf) announced by Governor
 - August 7 Charter schools in Clark, Elk, and Washoe encouraged to do full distance for first 30 days
 - August 14 Governor formally creates Mitigation Task Force 
