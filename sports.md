@@ -46,7 +46,9 @@
 - Aug 21 CCSD Staff prohibited from posting public recordings with students faces, survey released
 - Aug 24 First day of school for CCSD, Coral, Las Vegas Day School, Canvas crashes mid day  
 - Aug 25 Second postive case at Bishop Gorman
- 
+- Aug 29 Announcement made that Nevada has received federal funds to run 60,000 free Covid tests between Aug 31 - Sept 18
+- Sept 3 First positive case at Las Vegas Day School
+
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
 If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
