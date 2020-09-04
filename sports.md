@@ -1,11 +1,17 @@
 ## A look at schools and sports in Nevada during the pandemic
 
+### Schools and Contact Tracing
+- [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
+- [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations, TN](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14)
+
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Organized Youth Sports Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Organized-Youth-Sports-Practice-Only.pdf)
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Soccer Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Soccer-Practice-Only.pdf)
 - [Nevada Youth Soccer Return to Play Guidelines](http://nvsysl.com/wp-content/uploads/2013/06/Return-to-Play-Guidelines744.pdf) 
 - 8/21/2020 link to [NYSL Return to Play Timeline]( https://www.nevadayouthsoccer.org/return-to-play/return-to-play-information/?fbclid=IwAR2NqIZhTit8gAN7hUKXAVn0rd0I_7-OkxUbViYR7D4lB60FLYkrbSrlngs), includes discussion about out of state travel
+- 
+- 
 
 ### Some links of interest in regards to the overall health of the athlete
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
@@ -47,6 +53,7 @@
 - Aug 24 First day of school for CCSD, Coral, Las Vegas Day School, Canvas crashes mid day  
 - Aug 25 Second postive case at Bishop Gorman
 - Aug 29 Announcement made that Nevada has received federal funds to run 60,000 free Covid tests between Aug 31 - Sept 18
+- Sept 2 13 News airs piece on Let Them Play
 - Sept 3 First positive case at Las Vegas Day School
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
