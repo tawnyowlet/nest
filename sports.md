@@ -1,8 +1,8 @@
 ## A look at schools and sports in Nevada during the pandemic
 
 ### Schools and Contact Tracing
-- [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
-- [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations, TN](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14)
+- 8/29/2020 [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
+- 8/29/2020 [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14), Tennessee
 
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
