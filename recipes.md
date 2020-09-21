@@ -6,3 +6,7 @@ Links to recipes that I have gotten from friends during the Pandemic
 - Chinese Pork Tenderloin and scallions
 - Middle Eastern Lamb Stew
 - Poblito
+- Brined Chicken
+- Balsamic Viniagrette
+- Brined Pork Chops
+
