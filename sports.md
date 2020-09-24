@@ -12,10 +12,14 @@
 - 8/21/2020 link to [NYSL Return to Play Timeline]( https://www.nevadayouthsoccer.org/return-to-play/return-to-play-information/?fbclid=IwAR2NqIZhTit8gAN7hUKXAVn0rd0I_7-OkxUbViYR7D4lB60FLYkrbSrlngs), includes discussion about out of state travel
 
 ### Some links of interest in regards to the overall health of the athlete
-- [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
-- [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.html), JAMA Article 
-- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE)
+- [AAP Clearance for Sports](https://www.aappublications.org/news/2020/09/18/covid19sportsguidance091820) after COVID 19 should include cardiac screening
+- Children's Mercy Hospital [Return to Play after COVID-19 infection in Pediatric Patients](https://www.childrensmercy.org/health-and-safety-resources/information-about-covid-19-novel-coronavirus/returning-to-community-activities/recommendations-for-a-safe-return-to-sport-and-physical-activity-after-covid-19/) Flow Chart
+- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
 - [Is it safe to Return to Fall Sports?](https://www.idsociety.org/Podcasts/podcasts/covid-19-is-it-safe-to-return-to-fall-sports/), an informative podcase from the Infectious Disease Society of America
+
+### Organizational Broad discussion about Youth Sports
+- [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
+- [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.html)
 
 ### Time line
 ```markdown
