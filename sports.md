@@ -52,6 +52,7 @@
 - August 14 Governor formally creates Mitigation Task Force 
 - August 18 [Desert Conference](https://www.usyouthsoccer.org/desert-conference/): NM, NV teams prohibited from attending conference in UT
 - Aug 17 First day of school for HIS, St. Anthony's, Bishop Gorman, Pinecest, Foothills Montesorri
+- Aug 19 First positive case at Adelson
 - Aug 20 First postiive case at Bishop Gorman
 - Aug 21 NSYSL Moves to Phase 2 soccer, practice only, no 4v4 scrimmages per Governor
 - Aug 21 CCSD Staff prohibited from posting public recordings with students faces, survey released
