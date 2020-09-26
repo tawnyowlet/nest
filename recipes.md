@@ -7,10 +7,9 @@ Links to recipes that I have gotten from friends during the Pandemic
 - [IP Middle Eastern Lamb Stew](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/)
 - [Cochinita Pibil](https://www.gimmesomeoven.com/cochinita-pibil/?fbclid=IwAR3uSgbFW_WlGBp6uELSmyzrl3KY4-ZPv-KGjdy8940Ak90gilqF-NYnzjc)
 - Tina's [Brined Chicken](https://www.sierrasanssvc.com).  Here's a [video in how to cut chicken breast:](https://youtu.be/gB50hI6SONk0)  
-  * Get warm water from tap rather than lightly warn water on stove (gets too hot)
-  * Found that I needed more butter: Use 6 Tbs butter
+  * Per Tina, use warm water from tap... she needed more butter: Use 6 Tbs butter
   * Try the chicken breast with skin - will have rib bone. Easier to slather butter on top and below skin. Without skin hard for butter to stay on chicken
-  * Your oven is good so follow heating time instructions - bet the skin will crisp up - so good! 
+  * Follow heating time instructions for out oven - 
 - Tina's [Balsamic Viniagrette](https://barefeetinthekitchen.com/best-balsamic-vinaigrette/)
 - Brined Pork Chops
 
