@@ -64,6 +64,7 @@
 - Sept 3 First positive case at Las Vegas Day School
 - Sept 20 Bars in Clark County allowed to re-open
 - Sept 21 First Raiders game
+- Oct 3 Governor announces directive regarding youth spots, in league soccer scrimmages [Nevada Guidance for Youth Spots](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/10/10.2.20-Press-Release-Youth-Sports.pdf)
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
