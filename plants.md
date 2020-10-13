@@ -13,6 +13,6 @@
 - [Repotting plants](https://bloomscape.com/how-to-repot-your-plants/)
 - [Indoor Herb Garden](https://howtoculinaryherbgarden.com/indoor-culinary-herbs/)
 
-Plants to water to keep soil moist: coffee plant and parsley
-Plants to mist: Dracaena, Massangeana, spider.
-Plants that like full sun: sage, thyme
+* Plants to water to keep soil moist: coffee plant and parsley
+* Plants to mist: Dracaena, Massangeana, spider.
+* Plants that like full sun: sage, thyme
