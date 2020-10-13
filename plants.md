@@ -10,3 +10,4 @@
 -[ZZ plant](https://www.gardenista.com/posts/everything-you-need-to-know-about-zz-plants-zamioculcas-zamiifolia/)
 -[Giant Bird of Paradise](https://greeneryunlimited.co/blogs/plant-care/bird-of-paradise-care)
 - [Repotting plants](https://bloomscape.com/how-to-repot-your-plants/)
+- [Indoor Herb Garden](https://howtoculinaryherbgarden.com/indoor-culinary-herbs/)
