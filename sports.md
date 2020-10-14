@@ -13,6 +13,7 @@
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Soccer Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Soccer-Practice-Only.pdf)
 - [Nevada Youth Soccer Return to Play Guidelines](http://nvsysl.com/wp-content/uploads/2013/06/Return-to-Play-Guidelines744.pdf) 
 - 8/21/2020 link to [NYSL Return to Play Timeline]( https://www.nevadayouthsoccer.org/return-to-play/return-to-play-information/?fbclid=IwAR2NqIZhTit8gAN7hUKXAVn0rd0I_7-OkxUbViYR7D4lB60FLYkrbSrlngs), includes discussion about out of state travel
+- 10/7/2020 [NYSA Safety and Preparedness Protocol](http://nvsysl.com/wp-content/uploads/2020/10/NYSA-Safety-and-Preparedness-Protocol-Final.pdf), submitted and approved by the Governor for return to play (league play and tournament conditions)
 
 ### Some links of interest in regards to the overall health of the athlete
 - [AAP Clearance for Sports](https://www.aappublications.org/news/2020/09/18/covid19sportsguidance091820) after COVID 19 should include cardiac screening
