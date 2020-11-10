@@ -14,7 +14,9 @@
 ### Some links of interest in regards to the overall health of the athlete
 - [AAP Clearance for Sports](https://www.aappublications.org/news/2020/09/18/covid19sportsguidance091820) after COVID 19 should include cardiac screening
 - [Virginia AAP Statement about Clearance for Sports](http://www.virginiapediatrics.org/mt-content/uploads/2020/11/vaaap-covidreturntoplay.pdf?fbclid=IwAR1aPZebFS83zI3joRh8eepe_y-7MXDJaRJYbAqFmWm5TVHUtgLM0q8nB7E) Updated Nov 8, 2020
-- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
+- Oct 26, 2020 [Coronavirus 19 and the Ahtletic Heart](https://jamanetwork.com/journals/jamacardiology/fullarticle/2772399?fbclid=IwAR0MxIaX8Y-zl28w6qRF5oJDG63TBeBumDqxotM4V240cthcL2PHkdUYjLs)
+- July 2020, [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
+
 
 
 ### Children's Mercy Hospital Flowsheets and Handouts
