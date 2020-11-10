@@ -3,12 +3,6 @@
 ### Contact Tracing
 - 7/23/2020 [Wash U COVID-19 Clinician Algorithm](http://wupaarc.wustl.edu/COVID-19-and-Children/Algorithms-for-Clinicians-and-Schools/-Clinician-Algorithm). When to order COVID test, determining length of isolation and/or quarantine
 
-### Decision trees for school
-- 8/29/2020 [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
-- 8/29/2020 [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14), Tennessee
-- [CHOP Guidelines](https://www.chop.edu/clinical-pathway/2019-novel-coronavirus-emergency-clinical-pathway)  for COVID like illness being discharged from ER
-- [Connecticut Addendum](https://drive.google.com/file/d/1lGc1pGS8H6_s5bhAx32qBJzgmTdF3QFp/view?fbclid=IwAR1_31yewWP0N7FwBMAtWttbQzPXRKFxh0vehnXUbWEva88LtdENqWlXw6A)
-
 ### Sports in Nevada
 - 6/9/2020 link to [Nevada Interscholastic Activities Association Re-Opening Guidance](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/NIAA-Reopening-Guidance-6.9.20.pdf), CCSD high school sports postponed
 - 6/10/2020 link to [Roadmap to Recovery for Nevada: Organized Youth Sports Practice Only](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/06/Organized-Youth-Sports-Practice-Only.pdf)
@@ -29,6 +23,12 @@
 - Children's Mercy Hospital [Cardiac Screening for High School Atheletes](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/cardiac-screening-post-infection-over-12.pdf?fbclid=IwAR1AzgA3iQrPWfEUo7vt1Ph4x6IPZIHc8nyV_F9hpcuMB9pL86MB2y2cZZY)
 - [MSHSAA Covid 19- Return to Play Form](https://www.mshsaa.org/resources/PDF/MSHSAA%20COVID-19%20RTP%20Form.pdf)
 - [Phased Return to Play](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/phasing-process-return-to-sport.pdf)
+
+### Decision trees for school
+- 8/29/2020 [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
+- 8/29/2020 [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14), Tennessee
+- [CHOP Guidelines](https://www.chop.edu/clinical-pathway/2019-novel-coronavirus-emergency-clinical-pathway)  for COVID like illness being discharged from ER
+- [Connecticut Addendum](https://drive.google.com/file/d/1lGc1pGS8H6_s5bhAx32qBJzgmTdF3QFp/view?fbclid=IwAR1_31yewWP0N7FwBMAtWttbQzPXRKFxh0vehnXUbWEva88LtdENqWlXw6A)
 
 ### Organizational Broad discussion about Youth Sports
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
@@ -78,6 +78,8 @@
 - Sept 21 First Raiders game
 - Sept 28 Governor announces that gatherings can expand to 250 people with social distancing measures.
 - Oct 3 Governor announces directive regarding youth spots, in league soccer scrimmages [Nevada Guidance for Youth Spots](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/10/10.2.20-Press-Release-Youth-Sports.pdf)
+- Oct 24 opening game day for NSYSL soccer league
+- Nov 9 Prime Club revises policy
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
