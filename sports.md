@@ -19,10 +19,10 @@
 
 
 ### Children's Mercy Hospital Flowsheets and Handouts
-- Children's Mercy Hospital [Return to Play after COVID-19 infection in Pediatric Patients](https://www.childrensmercy.org/health-and-safety-resources/information-about-covid-19-novel-coronavirus/returning-to-community-activities/recommendations-for-a-safe-return-to-sport-and-physical-activity-after-covid-19/) Flow Chart
+- Children's Mercy Hospital Flow Chart: [Return to Play after COVID-19 infection in Pediatric Patients](https://www.childrensmercy.org/health-and-safety-resources/information-about-covid-19-novel-coronavirus/returning-to-community-activities/recommendations-for-a-safe-return-to-sport-and-physical-activity-after-covid-19/) 
 - Children's Mercy Hospital [Cardiac Screening for High School Atheletes](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/cardiac-screening-post-infection-over-12.pdf?fbclid=IwAR1AzgA3iQrPWfEUo7vt1Ph4x6IPZIHc8nyV_F9hpcuMB9pL86MB2y2cZZY)
-- [MSHSAA Covid 19- Return to Play Form](https://www.mshsaa.org/resources/PDF/MSHSAA%20COVID-19%20RTP%20Form.pdf)
-- [Phased Return to Play](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/phasing-process-return-to-sport.pdf)
+- Missouri High School [MSHSAA Covid 19- Return to Play Form](https://www.mshsaa.org/resources/PDF/MSHSAA%20COVID-19%20RTP%20Form.pdf)
+- Children's Mercy Hospital [Phased Return to Play Handout](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/phasing-process-return-to-sport.pdf)
 
 ### Decision trees for school
 - 8/29/2020 [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
