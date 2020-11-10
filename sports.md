@@ -1,7 +1,9 @@
 ## A look at schools and sports in Nevada during the pandemic
 
-### Schools and Contact Tracing
-- 7/23/2020 [Wash U COVID-19 Clinician Algorithm](http://wupaarc.wustl.edu/COVID-19-and-Children/Algorithms-for-Clinicians-and-Schools/-Clinician-Algorithm)
+### Contact Tracing
+- 7/23/2020 [Wash U COVID-19 Clinician Algorithm](http://wupaarc.wustl.edu/COVID-19-and-Children/Algorithms-for-Clinicians-and-Schools/-Clinician-Algorithm). When to order COVID test, determining length of isolation and/or quarantine
+
+### Decision trees for school
 - 8/29/2020 [Minnesota Department of Health Covid-19 Decision Tree for Schools](https://www.health.state.mn.us/diseases/coronavirus/schools/exguide.pdf?fbclid=IwAR0RMR0fl8s-ihK8oqC47atLpHf15uWV2ms5Wfa_bD3Fj1WVwyPectZ0tnc) 
 - 8/29/2020 [Le Bonheur Children's Hospital Back-to-School Task Force Recommendations](https://www.lebonheur.org/files/Back-to-School%20Task%20Force%20Le%20Bonheur%20Children%20s%20UTHSC%20Recommendations%20FINAL.pdf?utm_source=COVID+19%3A+Med+Staff+and+Community+Providers&utm_campaign=b896fcf88b-EMAIL_CAMPAIGN_2018_02_23_COPY_01&utm_medium=email&utm_term=0_d06c9471a7-b896fcf88b-306427601&fbclid=IwAR30tMesXM8KW0m2aeXjh1J8-iDf-an8pDDWyDCHekNHuZY4AFYi8ou0Z14), Tennessee
 - [CHOP Guidelines](https://www.chop.edu/clinical-pathway/2019-novel-coronavirus-emergency-clinical-pathway)  for COVID like illness being discharged from ER
@@ -17,9 +19,13 @@
 
 ### Some links of interest in regards to the overall health of the athlete
 - [AAP Clearance for Sports](https://www.aappublications.org/news/2020/09/18/covid19sportsguidance091820) after COVID 19 should include cardiac screening
+- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
+- [Virginia AAP Statement about Clearance for Sports] (http://www.virginiapediatrics.org/mt-content/uploads/2020/11/vaaap-covidreturntoplay.pdf?fbclid=IwAR1aPZebFS83zI3joRh8eepe_y-7MXDJaRJYbAqFmWm5TVHUtgLM0q8nB7E) Updated Nov 8, 2020
 - Children's Mercy Hospital [Return to Play after COVID-19 infection in Pediatric Patients](https://www.childrensmercy.org/health-and-safety-resources/information-about-covid-19-novel-coronavirus/returning-to-community-activities/recommendations-for-a-safe-return-to-sport-and-physical-activity-after-covid-19/) Flow Chart
+- Children's Mercy Hospital [Cardiac Screening for High School Atheletes](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/cardiac-screening-post-infection-over-12.pdf?fbclid=IwAR1AzgA3iQrPWfEUo7vt1Ph4x6IPZIHc8nyV_F9hpcuMB9pL86MB2y2cZZY)
 - [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
 - [Is it safe to Return to Fall Sports?](https://www.idsociety.org/Podcasts/podcasts/covid-19-is-it-safe-to-return-to-fall-sports/), an informative podcase from the Infectious Disease Society of America
+-[Management of post acute Covid 19 in primary care](https://www.bmj.com/content/370/bmj.m3026?fbclid=IwAR2WlvKZO9fpjFjXeEotYkVLRFRO6HsIzffgtoLKPn_Z5GKtWv8NwMuZpZ8), BMJ article
 
 ### Organizational Broad discussion about Youth Sports
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
