@@ -20,17 +20,21 @@
 ### Some links of interest in regards to the overall health of the athlete
 - [AAP Clearance for Sports](https://www.aappublications.org/news/2020/09/18/covid19sportsguidance091820) after COVID 19 should include cardiac screening
 - [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
-- [Virginia AAP Statement about Clearance for Sports] (http://www.virginiapediatrics.org/mt-content/uploads/2020/11/vaaap-covidreturntoplay.pdf?fbclid=IwAR1aPZebFS83zI3joRh8eepe_y-7MXDJaRJYbAqFmWm5TVHUtgLM0q8nB7E) Updated Nov 8, 2020
+- [Virginia AAP Statement about Clearance for Sports](http://www.virginiapediatrics.org/mt-content/uploads/2020/11/vaaap-covidreturntoplay.pdf?fbclid=IwAR1aPZebFS83zI3joRh8eepe_y-7MXDJaRJYbAqFmWm5TVHUtgLM0q8nB7E) Updated Nov 8, 2020
+- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
+
+
+### Children's Mercy Hospital Flowsheets and Handouts
 - Children's Mercy Hospital [Return to Play after COVID-19 infection in Pediatric Patients](https://www.childrensmercy.org/health-and-safety-resources/information-about-covid-19-novel-coronavirus/returning-to-community-activities/recommendations-for-a-safe-return-to-sport-and-physical-activity-after-covid-19/) Flow Chart
 - Children's Mercy Hospital [Cardiac Screening for High School Atheletes](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/cardiac-screening-post-infection-over-12.pdf?fbclid=IwAR1AzgA3iQrPWfEUo7vt1Ph4x6IPZIHc8nyV_F9hpcuMB9pL86MB2y2cZZY)
 - [MSHSAA Covid 19- Return to Play Form](https://www.mshsaa.org/resources/PDF/MSHSAA%20COVID-19%20RTP%20Form.pdf)
-- [Game Plan for Returning to play after COVID-19](https://jamanetwork.com/journals/jamacardiology/fullarticle/2766124?fbclid=IwAR31IucZP3itnspvtJSHiUFxXx7YGUj5XaVQRQ2aPqlMDxSFibbwBtfOxAE), JAMA article about Cardiac Workup
-- [Is it safe to Return to Fall Sports?](https://www.idsociety.org/Podcasts/podcasts/covid-19-is-it-safe-to-return-to-fall-sports/), an informative podcase from the Infectious Disease Society of America
--[Management of post acute Covid 19 in primary care](https://www.bmj.com/content/370/bmj.m3026?fbclid=IwAR2WlvKZO9fpjFjXeEotYkVLRFRO6HsIzffgtoLKPn_Z5GKtWv8NwMuZpZ8), BMJ article
+- Phased Return to Play](https://www.childrensmercy.org/siteassets/media/covid-19/return-to-sport/phasing-process-return-to-sport.pdf)
 
 ### Organizational Broad discussion about Youth Sports
 - [US Soccer PLAY ON: Return to Play Guidelines](https://www.ussoccer.com/playon)
 - [CDC's Covid 19 Considerations for Youth Sports](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports.html)
+- [Is it safe to Return to Fall Sports?](https://www.idsociety.org/Podcasts/podcasts/covid-19-is-it-safe-to-return-to-fall-sports/), an informative podcase from the Infectious Disease Society of America
+-[Management of post acute Covid 19 in primary care](https://www.bmj.com/content/370/bmj.m3026?fbclid=IwAR2WlvKZO9fpjFjXeEotYkVLRFRO6HsIzffgtoLKPn_Z5GKtWv8NwMuZpZ8), BMJ article
 
 ### Time line
 ```markdown
