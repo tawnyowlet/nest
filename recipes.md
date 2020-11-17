@@ -1,4 +1,6 @@
 Links to recipes that I have gotten from friends during the Pandemic
+- [Spicy Southern Kitchen Seafood Gumbo](https://spicysouthernkitchen.com/seafood-gumbo/)
+- [Trader Joe's Corn Chowder](https://www.food.com/recipe/trader-joes-corn-chowder-458143)
 - [Anne's NYT Grilled Chicken Thighs with Grilled Peaches](https://cooking.nytimes.com/recipes/1021197-gingery-grilled-chicken-thighs-with-charred-peaches) July 3, 2020
 - [Anne's Allrecipe's Chicken Paillard](https://www.allrecipes.com/recipe/246243/chicken-paillard/), June 2020
 - Tina's Scallion Pancakes
