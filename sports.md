@@ -81,7 +81,9 @@
 - Sept 28 Governor announces that gatherings can expand to 250 people with social distancing measures.
 - Oct 3 Governor announces directive regarding youth spots, in league soccer scrimmages [Nevada Guidance for Youth Spots](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/10/10.2.20-Press-Release-Youth-Sports.pdf)
 - Oct 24 opening game day for NSYSL soccer league
-- Nov 9 Prime Club revises policy
+- Nov 9 Prime Club revises policy regarding family member who is COVID positive
+- Nov 10 Governor issues Stay At Home 2.0 order
+- Nov 16 Superintendent extends work from home for CCSD employees through Dec 18.  Board tabled discussion of hybrid plan for Jan 2021 meeting.
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
