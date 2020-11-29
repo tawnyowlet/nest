@@ -1,4 +1,5 @@
 Links to recipes that I have gotten from friends during the Pandemic
+- [Low Commitment Wedding Soup](https://www.bonappetit.com/recipe/low-commitment-wedding-soup?fbclid=IwAR09qODKxjwI9BgAE8B2_dmkxZ9pFDuxDqh23auhzB_HCT6FZ4X6dSlZ5G8)
 - [Spicy Southern Kitchen Seafood Gumbo](https://spicysouthernkitchen.com/seafood-gumbo/)
 - [Trader Joe's Corn Chowder](https://www.food.com/recipe/trader-joes-corn-chowder-458143)
 - [Anne's NYT Grilled Chicken Thighs with Grilled Peaches](https://cooking.nytimes.com/recipes/1021197-gingery-grilled-chicken-thighs-with-charred-peaches) July 3, 2020
