@@ -15,4 +15,4 @@ Links to recipes that I have gotten from friends during the Pandemic
   * Follow heating time instructions for out oven - 
 - Tina's [Balsamic Viniagrette](https://barefeetinthekitchen.com/best-balsamic-vinaigrette/)
 - Brined Pork Chops
-
+- Laura's [Almond Cookies](https://bakeorbreak.com/2020/05/almond-cookies/?fbclid=IwAR3chf3bRZqxFAhPrZOPZRWiXDcpAYlRRp75XpoD27dRDyVf94V4VNMAlkA)
