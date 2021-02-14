@@ -84,6 +84,7 @@
 - Nov 9 Prime Club revises policy regarding family member who is COVID positive
 - Nov 10 Governor issues Stay At Home 2.0 order
 - Nov 16 Superintendent extends work from home for CCSD employees through Dec 18.  Board tabled discussion of hybrid plan for Jan 2021 meeting.
+- Feb 7 Superintendant Jara announces K-3 to go hybrid March 1, 2021
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
