@@ -1,7 +1,8 @@
-Links
-Troop 420 <https://www.hendersontroop420.com>
-17 Leaders, 23 Scouts
-Merit Badges for Scouts<https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing/>
+###Boy Scout Links
+
+-[Troop 420]<https://www.hendersontroop420.com> has 17 Leaders, 23 Scouts
+-[Merit Badges for Scouts]<https://blog.scoutingmagazine.org/2020/03/20/merit-badges-for-social-distancing/>
+-[Las Vegas Boy Scouts of America]<https://lvacbsa.org/->
 
 Carol Okins, new scout coordinator
 Lorna, Merit Badge Coordinator
