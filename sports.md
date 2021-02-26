@@ -85,6 +85,11 @@
 - Nov 10 Governor issues Stay At Home 2.0 order
 - Nov 16 Superintendent extends work from home for CCSD employees through Dec 18.  Board tabled discussion of hybrid plan for Jan 2021 meeting.
 - Feb 7 Superintendant Jara announces K-3 to go hybrid March 1, 2021
+- December Phoenix propers closes soccer fields
+- Discussion about possible masks for youth indoor soccer
+- Clarification made
+- From 2-1-0 spectators allowed for U12
+- Feb 24 Superintendant Jara announces youth sports, intrasquad scrimmages for football, spring season abbreviated, and hybrid Mar 22 and Apr 6 to start.  Not voted on by the board yet. 
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
