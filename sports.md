@@ -90,6 +90,8 @@
 - Clarification made
 - From 2-1-0 spectators allowed for U12
 - Feb 24 Superintendant Jara announces youth sports, intrasquad scrimmages for football, spring season abbreviated, and hybrid Mar 22 and Apr 6 to start.  Not voted on by the board yet. 
+- Mar 8: Texas, Utah lifting mask mandate (for Utah, April 1).  CDC releases new guidance for people fully vaccinated to be able to visit each other indoor, 1:1 families and low risk.
+- Mar 1 Miller releases Cohort information for Hybrid program
 
 You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/sports.md) to maintain and preview the content for your website in Markdown files.
 
