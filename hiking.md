@@ -1,5 +1,5 @@
-###McCullough Trail, Mission Hills Trailhead
-###Red Mountain Trail
+## McCullough Trail, Mission Hills Trailhead
+## Red Mountain Trail
 
 -[Bird and Hike](https://birdandhike.com/Hike/LAME/BC_RedMtTrail/_RedMtTr.htm)
 -[Summit Post](https://www.summitpost.org/red-mountain/781648)- nice summary of trail
