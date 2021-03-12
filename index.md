@@ -6,6 +6,7 @@ You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pa
 - [Pandemic Recipes](https://tawnyowlet.github.io/nest/recipes.html)
 - [30 Day Challenges](https://tawnyowlet.github.io/nest/challenge.html)
 - [Plants](https://tawnyowlet.github.io/nest/plants.html)
+- [Hiking](https://tawnyowlet.github.io/nest/hiking.html)
 
 [Connecting to a page within the repository](http://jmcglone.com/guides/github-pages/)
 
